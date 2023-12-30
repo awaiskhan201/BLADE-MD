@@ -1,7 +1,7 @@
 {
-               "name": "BLADE-MD",
+               "name": "DARK-AK",
                "version": "0.0.7",
-               "description": "Multi device whatsapp bot by alexdavid.",
+               "description": "Multi device whatsapp bot by Awais Khan.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
